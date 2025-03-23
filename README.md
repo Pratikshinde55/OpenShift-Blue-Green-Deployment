@@ -23,7 +23,7 @@ Blue-Green Deployment using OpenShift, How to use OpenShift
 
    - Check `oc` client side command work:
 
-        oc version
+         oc version
 
      ![oc-version](https://github.com/user-attachments/assets/ccfcd963-1a62-40b4-9f36-ae24ab3861aa)
 
