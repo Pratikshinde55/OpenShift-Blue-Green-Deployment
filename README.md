@@ -21,5 +21,11 @@ Blue-Green Deployment using OpenShift, How to use OpenShift
    - Download oc for Windows for x86_64: (This Zip file after download extract it & Add Path in 'System Environment Variable)
     ![download-oc-cmd](https://github.com/user-attachments/assets/f5db4f8b-f5b6-4cb3-8911-655ffe28320d)
 
+   - Check `oc` client side command work:
+
+        oc version
+
+     ![oc-version](https://github.com/user-attachments/assets/ccfcd963-1a62-40b4-9f36-ae24ab3861aa)
+
 
 3. 
