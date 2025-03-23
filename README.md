@@ -37,12 +37,18 @@ Blue-Green Deployment using OpenShift, How to use OpenShift
 
          oc login --token=
 
-4. **Now Give the Permission or Role Binding To the User [RBAC}:**
-   
-   - your user has the appropriate permissions assigned via Role-Based Access Control (RBAC):
-     ![RBAC](https://github.com/user-attachments/assets/9144cf2c-f62c-420d-894f-f4b515e273b8)
+4. **Set project:**
 
-   - Add user name & create Role:
-     ![Crate-Role](https://github.com/user-attachments/assets/55a9382d-ad58-49f3-9a66-66e45c09cfe6)
+   - Check Your Current Project:
+
+         oc project
+
+   - Switch to your project:
+
+         oc project pratik5577-dev
+
+   - Now try to run OpenShift commands:
+
+         oc get pods
  
    
