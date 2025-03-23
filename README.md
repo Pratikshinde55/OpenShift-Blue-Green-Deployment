@@ -33,3 +33,4 @@ Blue-Green Deployment using OpenShift, How to use OpenShift
    - On OpenShift SandBox there is option inside this `?` , then option is `Copy login command`
      ![login-cmd-gui](https://github.com/user-attachments/assets/bfbb245d-421f-48f7-8add-22c6609ae4ef)
 
+   - Then Click on `Display Token` then token occures `Log in with this token`
